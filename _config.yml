@@ -112,15 +112,13 @@ author:
   location         : "San Francisco, CA"
   email            : "mixiong@ucdavis.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mixiong@ucdavis.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/heidixiong/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin"
       url: "www.linkedin.com/in/mi-xiong"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heidixiong/"
+
 
 # Site Footer
 footer:
@@ -286,4 +284,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
